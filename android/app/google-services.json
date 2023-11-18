@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1003612465193",
+    "project_id": "flutter-projects-68c08",
+    "storage_bucket": "flutter-projects-68c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003612465193:android:94b62ca1e0b1d3a75c9438",
+        "android_client_info": {
+          "package_name": "com.sazed.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKZB_xt4wTqogaNiSsBMzZP-VyZWlCfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
